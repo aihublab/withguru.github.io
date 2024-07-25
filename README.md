@@ -1,1 +1,1 @@
-# trendbro.github.io
+# trend.github.io
